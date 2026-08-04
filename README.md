@@ -47,3 +47,9 @@ El proyecto se alinea con los principios de Green IT y contribuye directamente a
 
 ## 📽️ Video de Sustentación del Prototipo (Máx 10 Minutos)
 * **Enlace a la grabación:** https://drive.google.com/file/d/1DrS0ILBExuDIkZrE1M0kvROebfwxF8Rw/view?usp=sharing
+
+* ## Articulo IEEE 
+* **Enlace articulo:** https://drive.google.com/drive/folders/1qN3MfY0oCQKd4SO4hCX39_u7w8y5b6Dt?usp=sharing
+
+* ## 📽️ Video de Sustentación final proyecto (Máx 10 Minutos)
+* **Enlace a la grabación:** https://drive.google.com/file/d/1DrS0ILBExuDIkZrE1M0kvROebfwxF8Rw/view?usp=sharing
